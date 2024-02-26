@@ -1,4 +1,5 @@
 수평선 (구분선, 수평선을 만들려면 - or * or _을 3개를 입력)
+![캡처](https://github.com/chohj345677/README_example_Source/assets/161269384/968a4987-bb07-492e-865f-8f3da25fbe43)
 
 ---
 
